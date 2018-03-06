@@ -4,9 +4,10 @@
       <ul class="navbar-nav">
         <li class="nav-item active">
           <a class="navbar-brand" href="#">
+            <!-- put you logo here -->
             <i class="fas fa-th d-inline-block text-danger"></i>
-      <!-- <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" height="30" alt="ETH grid"  class="d-inline-block align-top"> -->
-          Site name
+            <!-- <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" height="30" alt="ETH grid"  class="d-inline-block align-top"> -->
+            Site name
           </a>
         </li>
         <li class="nav-item">

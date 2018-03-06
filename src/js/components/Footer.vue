@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12 col-md">
         <i class="fas fa-th text-danger"></i>
-        <small class="d-block mb-3 text-muted">© <a href="https://ethgrid.io">Name</a> 2018</small>
+        <small class="d-block mb-3 text-muted">© <a href="#">Name</a> 2018</small>
       </div>
       <div class="col-6 col-md">
         <ul class="list-unstyled text-small">
